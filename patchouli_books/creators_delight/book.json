@@ -1,0 +1,10 @@
+{
+    "name": "Creator's Delight",
+    "subtitle": "ver. 1.19.2-2.0-b1",
+    "version": 0,
+    "landing_text": "$(italic)Welcome, $(playername)!$() $(br)$(br)   If you look to the right, you'll find a list of categories, some covering specific mods, others covering various topics. $(br)$(br)Support Links:$(li)$(l:https://discord.com/)Discord$(/l)$(li)$(l:https://legacy.curseforge.com/minecraft/modpacks/creators-delight)Curseforge$(/l)$(li)$(l:https://github.com/MintcraftTeam/Creators-Delight/issues)Issue Tracker$(/l)",
+    "model": "patchouli:book_green",
+    "book_texture": "patchouli:textures/gui/book_green.png",
+    "show_progress": false,
+    "pause_game": true
+}
