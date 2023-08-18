@@ -1,4 +1,4 @@
-Creator's Delight v2.0-b1
+Creator's Delight v2.0-b2
 =====
 
 **Forge Version:**
