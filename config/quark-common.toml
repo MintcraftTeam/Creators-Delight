@@ -120,7 +120,7 @@
 	Grate = true
 	"Variant Bookshelves" = true
 	"Sturdy Stone" = true
-	"Variant Chests" = false
+	"Variant Chests" = true
 	"Japanese Palette" = true
 	"More Potted Plants" = true
 	"Celebratory Lamps" = true

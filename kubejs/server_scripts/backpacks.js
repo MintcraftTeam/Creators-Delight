@@ -10,7 +10,15 @@ ServerEvents.recipes(event => {
         "sophisticatedbackpacks:blasting_upgrade",
         "sophisticatedbackpacks:auto_blasting_upgrade",
         "sophisticatedbackpacks:crafting_upgrade",
-        "sophisticatedbackpacks:stonecutter_upgrade"
+        "sophisticatedbackpacks:stonecutter_upgrade",
+        "sophisticatedstorage:smelting_upgrade",
+        "sophisticatedstorage:auto_smelting_upgrade",
+        "sophisticatedstorage:smoking_upgrade",
+        "sophisticatedstorage:auto_smoking_upgrade",
+        "sophisticatedstorage:blasting_upgrade",
+        "sophisticatedstorage:auto_blasting_upgrade",
+        "sophisticatedstorage:crafting_upgrade",
+        "sophisticatedstorage:stonecutter_upgrade"
     ];
 
     // remove items in array
