@@ -1,6 +1,6 @@
 ### Creator's Delight | v2.0-b2
 
-_Forge Mod Loader 43.2.21_ | _[Mod Upates](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/changelog_mods_2.0-b2.md)_
+_Forge Mod Loader 43.2.21_ | _[Mod Upates](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/changelog_mods_2.0-b2.md)_ | _[Modlist](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelog/modlist_2.0-b2.md)_
 
 ### Added Mods
 

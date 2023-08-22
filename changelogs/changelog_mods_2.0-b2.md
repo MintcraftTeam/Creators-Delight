@@ -1,4 +1,4 @@
-## Creator's Delight :: v2.0-b1 > v2.0-b2
+## creators-delight - v2.0-b1 -> v2.0-b2
 
 ### Added
 
