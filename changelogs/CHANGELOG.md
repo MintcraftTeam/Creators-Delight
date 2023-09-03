@@ -1,4 +1,19 @@
-### Creator's Delight | v2.0-b2
+### Creator's Delight | v2.0-b4
+
+_Forge Mod Loader 43.2.22_ | _[Mod Upates](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/changelog_mods_2.0-b4.md)_ | _[Modlist](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/modlist_2.0-b4.md)_
+
+### Added Mods
+
+* [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks)
+* [Lightspeed](https://www.curseforge.com/minecraft/mc-mods/lightspeedmod)
+
+### Changes/Improvements
+
+* Added Refined Storage disk storage back for performance reasons (originally disabled for balance)
+
+---
+
+### Creator's Delight | v2.0-b3
 
 _Forge Mod Loader 43.2.21_ | _[Mod Upates](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/changelog_mods_2.0-b3.md)_ | _[Modlist](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/modlist_2.0-b3.md)_
 
