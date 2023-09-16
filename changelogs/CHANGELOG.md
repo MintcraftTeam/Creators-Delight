@@ -1,3 +1,33 @@
+### Creator's Delight | v2.0-b5
+
+_Forge Mod Loader 43.2.23_ | _[Mod Upates](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/changelog_mods_2.0-b5.md)_ | _[Modlist](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/modlist_2.0-b5.md)_
+
+### Added Mods
+
+* [Create: Crystal Clear](https://www.curseforge.com/minecraft/mc-mods/create-crystal-clear)
+* [Create Stuff & Additions](https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions)
+* [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create)
+* [Little Contraptions](https://www.curseforge.com/minecraft/mc-mods/little-contraptions)
+* [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics)
+* [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged)
+* [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
+* [YUNG's Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples)
+
+### Removed Mods
+
+* [Create Jetpack](https://curseforge.com/minecraft/mc-mods/create-jetpack)
+* [Oculus](https://curseforge.com/minecraft/mc-mods/oculus)
+* [Rubidium Extra](https://curseforge.com/minecraft/mc-mods/rubidium-extra)
+* [TexTrue's Rubidium Options](https://curseforge.com/minecraft/mc-mods/textrues-rubidium-options)
+
+### Changes/Improvements
+
+* Added a crushing recipe for making Cinder Flour from Nether Bricks
+* Added a smelting recipe for making Dirt from Lush Dirt
+* Added a compacting recipe for making Tuff from Ash
+
+---
+
 ### Creator's Delight | v2.0-b4
 
 _Forge Mod Loader 43.2.22_ | _[Mod Upates](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/changelog_mods_2.0-b4.md)_ | _[Modlist](https://github.com/MintcraftTeam/Creators-Delight/blob/main/changelogs/modlist_2.0-b4.md)_
